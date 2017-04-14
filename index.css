@@ -1,0 +1,15 @@
+a{
+  font-family: Yanone Kaffeesatz;
+  padding-left: 500px;
+  color: black;
+  font-size:50px;
+  border: black 4px solid;
+  border-image: linear-gradient(black,orange) 10;
+
+}
+body{
+
+}
+a:hover{
+  color:;
+}
