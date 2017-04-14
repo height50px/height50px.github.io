@@ -1,0 +1,13 @@
+a{
+  font-family: Yanone Kaffeesatz;
+  padding-left: 500px;
+  color: white;
+  font-size:50px;
+
+}
+body{
+  background-color: black;
+}
+a:hover{
+  color:red;
+}
